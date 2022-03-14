@@ -1,4 +1,4 @@
-public class Variabel {
+public class C_PenamaanVariabel {
     public static void main(String args[]){
         double salary;
         long _distance;
