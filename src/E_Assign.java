@@ -1,4 +1,4 @@
-public class Assign {
+public class E_Assign {
     public static void main(String args[]){
         boolean b = true;
         System.out.println("Value b ="+b);
