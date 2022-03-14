@@ -1,4 +1,4 @@
-public class VariabelGlobalLokal {
+public class D_VariabelGlobalLokal {
     static  int varGlobal=34;
 
     public static void main(String[] args) {
